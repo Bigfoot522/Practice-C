@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-int main(void)
+int main_condition(void)
 {
 	//int age = 15;
 	////if (Á¶°Ç) {...} else {...}

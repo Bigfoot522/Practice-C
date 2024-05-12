@@ -1,29 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\CProgramming\\MyProject\\",
+  "WorkspaceRootPath": "C:\\Practice\\Practice - C\\MyProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7A99E3CB-2972-4C5B-8847-22FD4FAA7D68}|MyProject\\MyProject.vcxproj|C:\\CProgramming\\MyProject\\MyProject\\condition.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7A99E3CB-2972-4C5B-8847-22FD4FAA7D68}|MyProject\\MyProject.vcxproj|solutionrelative:MyProject\\condition.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A99E3CB-2972-4C5B-8847-22FD4FAA7D68}|MyProject\\MyProject.vcxproj|C:\\CProgramming\\MyProject\\MyProject\\function_project.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7A99E3CB-2972-4C5B-8847-22FD4FAA7D68}|MyProject\\MyProject.vcxproj|C:\\Practice\\Practice - C\\MyProject\\MyProject\\function_project.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7A99E3CB-2972-4C5B-8847-22FD4FAA7D68}|MyProject\\MyProject.vcxproj|solutionrelative:MyProject\\function_project.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A99E3CB-2972-4C5B-8847-22FD4FAA7D68}|MyProject\\MyProject.vcxproj|C:\\CProgramming\\MyProject\\MyProject\\function.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7A99E3CB-2972-4C5B-8847-22FD4FAA7D68}|MyProject\\MyProject.vcxproj|C:\\Practice\\Practice - C\\MyProject\\MyProject\\array_project.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7A99E3CB-2972-4C5B-8847-22FD4FAA7D68}|MyProject\\MyProject.vcxproj|solutionrelative:MyProject\\array_project.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A99E3CB-2972-4C5B-8847-22FD4FAA7D68}|MyProject\\MyProject.vcxproj|C:\\Practice\\Practice - C\\MyProject\\MyProject\\array.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7A99E3CB-2972-4C5B-8847-22FD4FAA7D68}|MyProject\\MyProject.vcxproj|solutionrelative:MyProject\\array.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A99E3CB-2972-4C5B-8847-22FD4FAA7D68}|MyProject\\MyProject.vcxproj|C:\\Practice\\Practice - C\\MyProject\\MyProject\\function.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7A99E3CB-2972-4C5B-8847-22FD4FAA7D68}|MyProject\\MyProject.vcxproj|solutionrelative:MyProject\\function.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A99E3CB-2972-4C5B-8847-22FD4FAA7D68}|MyProject\\MyProject.vcxproj|C:\\CProgramming\\MyProject\\MyProject\\loop.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7A99E3CB-2972-4C5B-8847-22FD4FAA7D68}|MyProject\\MyProject.vcxproj|solutionrelative:MyProject\\loop.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{7A99E3CB-2972-4C5B-8847-22FD4FAA7D68}|MyProject\\MyProject.vcxproj|C:\\Practice\\Practice - C\\MyProject\\MyProject\\condition.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7A99E3CB-2972-4C5B-8847-22FD4FAA7D68}|MyProject\\MyProject.vcxproj|solutionrelative:MyProject\\condition.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A99E3CB-2972-4C5B-8847-22FD4FAA7D68}|MyProject\\MyProject.vcxproj|C:\\CProgramming\\MyProject\\MyProject\\printfscanf.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7A99E3CB-2972-4C5B-8847-22FD4FAA7D68}|MyProject\\MyProject.vcxproj|C:\\Practice\\Practice - C\\MyProject\\MyProject\\printfscanf.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7A99E3CB-2972-4C5B-8847-22FD4FAA7D68}|MyProject\\MyProject.vcxproj|solutionrelative:MyProject\\printfscanf.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A99E3CB-2972-4C5B-8847-22FD4FAA7D68}|MyProject\\MyProject.vcxproj|C:\\CProgramming\\MyProject\\MyProject\\random.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7A99E3CB-2972-4C5B-8847-22FD4FAA7D68}|MyProject\\MyProject.vcxproj|C:\\Practice\\Practice - C\\MyProject\\MyProject\\loop.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7A99E3CB-2972-4C5B-8847-22FD4FAA7D68}|MyProject\\MyProject.vcxproj|solutionrelative:MyProject\\loop.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A99E3CB-2972-4C5B-8847-22FD4FAA7D68}|MyProject\\MyProject.vcxproj|C:\\Practice\\Practice - C\\MyProject\\MyProject\\random.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7A99E3CB-2972-4C5B-8847-22FD4FAA7D68}|MyProject\\MyProject.vcxproj|solutionrelative:MyProject\\random.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -34,28 +42,54 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "array_project.c",
+              "DocumentMoniker": "C:\\Practice\\Practice - C\\MyProject\\MyProject\\array_project.c",
+              "RelativeDocumentMoniker": "MyProject\\array_project.c",
+              "ToolTip": "C:\\Practice\\Practice - C\\MyProject\\MyProject\\array_project.c",
+              "RelativeToolTip": "MyProject\\array_project.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-12T14:04:14.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "array.c",
+              "DocumentMoniker": "C:\\Practice\\Practice - C\\MyProject\\MyProject\\array.c",
+              "RelativeDocumentMoniker": "MyProject\\array.c",
+              "ToolTip": "C:\\Practice\\Practice - C\\MyProject\\MyProject\\array.c",
+              "RelativeToolTip": "MyProject\\array.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-12T13:03:49.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "condition.c",
-              "DocumentMoniker": "C:\\CProgramming\\MyProject\\MyProject\\condition.c",
+              "DocumentMoniker": "C:\\Practice\\Practice - C\\MyProject\\MyProject\\condition.c",
               "RelativeDocumentMoniker": "MyProject\\condition.c",
-              "ToolTip": "C:\\CProgramming\\MyProject\\MyProject\\condition.c",
+              "ToolTip": "C:\\Practice\\Practice - C\\MyProject\\MyProject\\condition.c",
               "RelativeToolTip": "MyProject\\condition.c",
-              "ViewState": "AQIAAPwAAAAAAAAAAAAAAAMBAAASAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-05-06T12:32:35.133Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "function_project.c",
-              "DocumentMoniker": "C:\\CProgramming\\MyProject\\MyProject\\function_project.c",
+              "DocumentMoniker": "C:\\Practice\\Practice - C\\MyProject\\MyProject\\function_project.c",
               "RelativeDocumentMoniker": "MyProject\\function_project.c",
-              "ToolTip": "C:\\CProgramming\\MyProject\\MyProject\\function_project.c",
+              "ToolTip": "C:\\Practice\\Practice - C\\MyProject\\MyProject\\function_project.c",
               "RelativeToolTip": "MyProject\\function_project.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
@@ -64,11 +98,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "loop.c",
-              "DocumentMoniker": "C:\\CProgramming\\MyProject\\MyProject\\loop.c",
+              "DocumentMoniker": "C:\\Practice\\Practice - C\\MyProject\\MyProject\\loop.c",
               "RelativeDocumentMoniker": "MyProject\\loop.c",
-              "ToolTip": "C:\\CProgramming\\MyProject\\MyProject\\loop.c",
+              "ToolTip": "C:\\Practice\\Practice - C\\MyProject\\MyProject\\loop.c",
               "RelativeToolTip": "MyProject\\loop.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
@@ -76,23 +110,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "function.c",
-              "DocumentMoniker": "C:\\CProgramming\\MyProject\\MyProject\\function.c",
+              "DocumentMoniker": "C:\\Practice\\Practice - C\\MyProject\\MyProject\\function.c",
               "RelativeDocumentMoniker": "MyProject\\function.c",
-              "ToolTip": "C:\\CProgramming\\MyProject\\MyProject\\function.c",
+              "ToolTip": "C:\\Practice\\Practice - C\\MyProject\\MyProject\\function.c",
               "RelativeToolTip": "MyProject\\function.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-04-29T14:38:55.554Z"
+              "WhenOpened": "2024-04-29T14:38:55.554Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "random.c",
-              "DocumentMoniker": "C:\\CProgramming\\MyProject\\MyProject\\random.c",
+              "DocumentMoniker": "C:\\Practice\\Practice - C\\MyProject\\MyProject\\random.c",
               "RelativeDocumentMoniker": "MyProject\\random.c",
-              "ToolTip": "C:\\CProgramming\\MyProject\\MyProject\\random.c",
+              "ToolTip": "C:\\Practice\\Practice - C\\MyProject\\MyProject\\random.c",
               "RelativeToolTip": "MyProject\\random.c",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwMAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
@@ -100,15 +135,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "printfscanf.c",
-              "DocumentMoniker": "C:\\CProgramming\\MyProject\\MyProject\\printfscanf.c",
+              "DocumentMoniker": "C:\\Practice\\Practice - C\\MyProject\\MyProject\\printfscanf.c",
               "RelativeDocumentMoniker": "MyProject\\printfscanf.c",
-              "ToolTip": "C:\\CProgramming\\MyProject\\MyProject\\printfscanf.c",
+              "ToolTip": "C:\\Practice\\Practice - C\\MyProject\\MyProject\\printfscanf.c",
               "RelativeToolTip": "MyProject\\printfscanf.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-04-21T06:58:51.536Z"
+              "WhenOpened": "2024-04-21T06:58:51.536Z",
+              "EditorCaption": ""
             }
           ]
         }
