@@ -1,0 +1,5 @@
+﻿  ex.c
+C:\Practice\Practice - C\mini baseball game\mini baseball game\ex.c(150,8): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Practice\Practice - C\mini baseball game\mini baseball game\ex.c(158,12): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+C:\Practice\Practice - C\mini baseball game\mini baseball game\ex.c(198,8): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  mini baseball game.vcxproj -> C:\Practice\Practice - C\mini baseball game\x64\Debug\mini baseball game.exe
