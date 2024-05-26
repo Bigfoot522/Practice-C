@@ -8,7 +8,7 @@
 //	}
 //	getchar(); return 0;
 //}
-
+//
 //#include <stdio.h>
 //
 //int main(void) {
@@ -21,7 +21,7 @@
 //		ptr++;
 //	}
 //}
-
+//
 //#include <stdio.h>
 //
 //int main(void) {
@@ -34,4 +34,3 @@
 //	}
 //	getchar(); return 0;
 //}
-

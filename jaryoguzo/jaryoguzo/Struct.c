@@ -5,7 +5,7 @@
 //	int pay;
 //};
 //
-//int main()
+//int main_employe()
 //{
 //	int i;
 //	struct employee Lee[4] = {
@@ -23,7 +23,7 @@
 //
 //	getchar();
 //}
-
+//
 //#define _CRT_SECURE_NO_WARNINGS
 //#include <stdio.h>
 //#include <string.h>
@@ -34,7 +34,7 @@
 //	int pay;
 //};
 //
-//void main() {
+//void main_employee() {
 //	struct employee Lee;
 //	struct employee* Sptr = &Lee;
 //	strcpy(Sptr->name, "ÀÌ¼ø½Å");

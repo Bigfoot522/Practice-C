@@ -1,5 +1,26 @@
-﻿  ex.c
-C:\Practice\Practice - C\mini baseball game\mini baseball game\ex.c(225,8): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Practice\Practice - C\mini baseball game\mini baseball game\ex.c(273,8): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Practice\Practice - C\mini baseball game\mini baseball game\ex.c(131,1): warning C4716: 'start_inning': 값을 반환해야 합니다.
-  mini baseball game.vcxproj -> C:\Practice\Practice - C\mini baseball game\x64\Debug\mini baseball game.exe
+﻿  asdf.c
+C:\Practice\Practice - C\mini baseball game\mini baseball game\asdf.c(82,17): error C2106: '=': 왼쪽 피연산자는 l-value이어야 합니다.
+C:\Practice\Practice - C\mini baseball game\mini baseball game\asdf.c(104,6): error C2084: 'void moveBlock(int,int)' 함수에 이미 본문이 있습니다.
+  C:\Practice\Practice - C\mini baseball game\mini baseball game\asdf.c(88,6):
+  'moveBlock'의 이전 정의를 참조하십시오.
+  
+C:\Practice\Practice - C\mini baseball game\mini baseball game\asdf.c(140,14): error C2371: 'currentBlock': 재정의. 기본 형식이 다릅니다.
+  C:\Practice\Practice - C\mini baseball game\mini baseball game\asdf.c(48,7):
+  'currentBlock' 선언을 참조하십시오.
+  
+C:\Practice\Practice - C\mini baseball game\mini baseball game\asdf.c(147,18): error C2039: 'color': 'Block'의 멤버가 아닙니다.
+  C:\Practice\Practice - C\mini baseball game\mini baseball game\asdf.c(43,16):
+  'Block' 선언을 참조하십시오.
+  
+C:\Practice\Practice - C\mini baseball game\mini baseball game\asdf.c(164,6): error C2084: 'void addBlockToBoard(Block *)' 함수에 이미 본문이 있습니다.
+  C:\Practice\Practice - C\mini baseball game\mini baseball game\asdf.c(51,6):
+  'addBlockToBoard'의 이전 정의를 참조하십시오.
+  
+C:\Practice\Practice - C\mini baseball game\mini baseball game\asdf.c(175,6): error C2084: 'void removeBlockFromBoard(Block *)' 함수에 이미 본문이 있습니다.
+  C:\Practice\Practice - C\mini baseball game\mini baseball game\asdf.c(62,6):
+  'removeBlockFromBoard'의 이전 정의를 참조하십시오.
+  
+C:\Practice\Practice - C\mini baseball game\mini baseball game\asdf.c(208,5): error C2084: 'int main()' 함수에 이미 본문이 있습니다.
+  C:\Practice\Practice - C\mini baseball game\mini baseball game\asdf.c(34,5):
+  'main'의 이전 정의를 참조하십시오.
+  

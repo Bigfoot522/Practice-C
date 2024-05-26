@@ -129,10 +129,19 @@
   <ItemGroup>
     <ClCompile Include="addPoly.c" />
     <ClCompile Include="Array.c" />
+    <ClCompile Include="CircularLinkedList.c" />
+    <ClCompile Include="DoubleLinkedList.c" />
     <ClCompile Include="ex3_4.c" />
     <ClCompile Include="ex3_5.c" />
     <ClCompile Include="ex3_6.c" />
+    <ClCompile Include="ex4_1.c" />
+    <ClCompile Include="ex4_2.c" />
+    <ClCompile Include="ex4_3.c" />
+    <ClCompile Include="ex4_4.c" />
+    <ClCompile Include="ex4_5.c" />
     <ClCompile Include="InsertLinkedList.c" />
+    <ClCompile Include="LinkedList.c" />
+    <ClCompile Include="LinkedPoly.c" />
     <ClCompile Include="listS.c" />
     <ClCompile Include="Pointer.c" />
     <ClCompile Include="Recursion.c" />
@@ -142,7 +151,11 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="addPoly.h" />
+    <ClInclude Include="CircularLinkedList.h" />
+    <ClInclude Include="DoubleLinkedList.h" />
     <ClInclude Include="InsertLinkedList.h" />
+    <ClInclude Include="LinkedList.h" />
+    <ClInclude Include="LinkedPoly.h" />
     <ClInclude Include="listS.h" />
     <ClInclude Include="smTranspose.h" />
   </ItemGroup>
