@@ -1,2 +1,45 @@
-﻿  LinkedPoly.c
-  jaryoguzo.vcxproj -> C:\Practice\Practice - C\jaryoguzo\x64\Debug\jaryoguzo.exe
+﻿  avl.c
+  bst2.c
+  ex7_5.c
+  node2.c
+C:\Practice\Practice - C\jaryoguzo\jaryoguzo\ex7_5.c(6,2): error C2065: 'treeNode': 선언되지 않은 식별자입니다.
+  코드를 생성하고 있습니다...
+C:\Practice\Practice - C\jaryoguzo\jaryoguzo\ex7_5.c(6,12): error C2065: 'root_AVL': 선언되지 않은 식별자입니다.
+C:\Practice\Practice - C\jaryoguzo\jaryoguzo\ex7_5.c(6,21): warning C4047: '=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Practice\Practice - C\jaryoguzo\jaryoguzo\ex7_5.c(6,10): error C2106: '=': 왼쪽 피연산자는 l-value이어야 합니다.
+C:\Practice\Practice - C\jaryoguzo\jaryoguzo\ex7_5.c(7,2): error C2065: 'treeNode': 선언되지 않은 식별자입니다.
+C:\Practice\Practice - C\jaryoguzo\jaryoguzo\ex7_5.c(7,12): error C2065: 'root_BST': 선언되지 않은 식별자입니다.
+C:\Practice\Practice - C\jaryoguzo\jaryoguzo\ex7_5.c(7,21): warning C4047: '=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Practice\Practice - C\jaryoguzo\jaryoguzo\ex7_5.c(7,10): error C2106: '=': 왼쪽 피연산자는 l-value이어야 합니다.
+C:\Practice\Practice - C\jaryoguzo\jaryoguzo\ex7_5.c(9,2): error C2065: 'root_AVL': 선언되지 않은 식별자입니다.
+C:\Practice\Practice - C\jaryoguzo\jaryoguzo\ex7_5.c(9,13): warning C4013: 'insertAVLNode'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Practice\Practice - C\jaryoguzo\jaryoguzo\ex7_5.c(9,28): error C2065: 'root_AVL': 선언되지 않은 식별자입니다.
+C:\Practice\Practice - C\jaryoguzo\jaryoguzo\ex7_5.c(10,17): error C2065: 'root_AVL': 선언되지 않은 식별자입니다.
+C:\Practice\Practice - C\jaryoguzo\jaryoguzo\ex7_5.c(11,17): error C2065: 'root_AVL': 선언되지 않은 식별자입니다.
+C:\Practice\Practice - C\jaryoguzo\jaryoguzo\ex7_5.c(12,17): error C2065: 'root_AVL': 선언되지 않은 식별자입니다.
+C:\Practice\Practice - C\jaryoguzo\jaryoguzo\ex7_5.c(13,17): error C2065: 'root_AVL': 선언되지 않은 식별자입니다.
+C:\Practice\Practice - C\jaryoguzo\jaryoguzo\ex7_5.c(14,17): error C2065: 'root_AVL': 선언되지 않은 식별자입니다.
+C:\Practice\Practice - C\jaryoguzo\jaryoguzo\ex7_5.c(15,17): error C2065: 'root_AVL': 선언되지 않은 식별자입니다.
+C:\Practice\Practice - C\jaryoguzo\jaryoguzo\ex7_5.c(16,17): error C2065: 'root_AVL': 선언되지 않은 식별자입니다.
+C:\Practice\Practice - C\jaryoguzo\jaryoguzo\ex7_5.c(17,17): error C2065: 'root_AVL': 선언되지 않은 식별자입니다.
+C:\Practice\Practice - C\jaryoguzo\jaryoguzo\ex7_5.c(19,2): warning C4013: 'displayInorder'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Practice\Practice - C\jaryoguzo\jaryoguzo\ex7_5.c(19,17): error C2065: 'root_AVL': 선언되지 않은 식별자입니다.
+C:\Practice\Practice - C\jaryoguzo\jaryoguzo\ex7_5.c(21,2): warning C4013: 'searchBST'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Practice\Practice - C\jaryoguzo\jaryoguzo\ex7_5.c(21,12): error C2065: 'root_AVL': 선언되지 않은 식별자입니다.
+C:\Practice\Practice - C\jaryoguzo\jaryoguzo\ex7_5.c(23,12): error C2065: 'root_AVL': 선언되지 않은 식별자입니다.
+C:\Practice\Practice - C\jaryoguzo\jaryoguzo\ex7_5.c(25,12): error C2065: 'root_AVL': 선언되지 않은 식별자입니다.
+C:\Practice\Practice - C\jaryoguzo\jaryoguzo\ex7_5.c(27,2): error C2065: 'root_BST': 선언되지 않은 식별자입니다.
+C:\Practice\Practice - C\jaryoguzo\jaryoguzo\ex7_5.c(27,13): warning C4013: 'insertBSTNode'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Practice\Practice - C\jaryoguzo\jaryoguzo\ex7_5.c(27,27): error C2065: 'root_BST': 선언되지 않은 식별자입니다.
+C:\Practice\Practice - C\jaryoguzo\jaryoguzo\ex7_5.c(28,16): error C2065: 'root_BST': 선언되지 않은 식별자입니다.
+C:\Practice\Practice - C\jaryoguzo\jaryoguzo\ex7_5.c(29,16): error C2065: 'root_BST': 선언되지 않은 식별자입니다.
+C:\Practice\Practice - C\jaryoguzo\jaryoguzo\ex7_5.c(30,16): error C2065: 'root_BST': 선언되지 않은 식별자입니다.
+C:\Practice\Practice - C\jaryoguzo\jaryoguzo\ex7_5.c(31,16): error C2065: 'root_BST': 선언되지 않은 식별자입니다.
+C:\Practice\Practice - C\jaryoguzo\jaryoguzo\ex7_5.c(32,16): error C2065: 'root_BST': 선언되지 않은 식별자입니다.
+C:\Practice\Practice - C\jaryoguzo\jaryoguzo\ex7_5.c(33,16): error C2065: 'root_BST': 선언되지 않은 식별자입니다.
+C:\Practice\Practice - C\jaryoguzo\jaryoguzo\ex7_5.c(34,16): error C2065: 'root_BST': 선언되지 않은 식별자입니다.
+C:\Practice\Practice - C\jaryoguzo\jaryoguzo\ex7_5.c(35,16): error C2065: 'root_BST': 선언되지 않은 식별자입니다.
+C:\Practice\Practice - C\jaryoguzo\jaryoguzo\ex7_5.c(37,17): error C2065: 'root_BST': 선언되지 않은 식별자입니다.
+C:\Practice\Practice - C\jaryoguzo\jaryoguzo\ex7_5.c(39,12): error C2065: 'root_BST': 선언되지 않은 식별자입니다.
+C:\Practice\Practice - C\jaryoguzo\jaryoguzo\ex7_5.c(41,12): error C2065: 'root_BST': 선언되지 않은 식별자입니다.
+C:\Practice\Practice - C\jaryoguzo\jaryoguzo\ex7_5.c(43,12): error C2065: 'root_BST': 선언되지 않은 식별자입니다.

@@ -3,56 +3,8 @@
   "WorkspaceRootPath": "C:\\Practice\\Practice - C\\jaryoguzo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F0DBDD7A-0A9C-4A4A-9AE3-FCF4FC413E6F}|jaryoguzo\\jaryoguzo.vcxproj|C:\\Practice\\Practice - C\\jaryoguzo\\jaryoguzo\\LinkedPoly.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F0DBDD7A-0A9C-4A4A-9AE3-FCF4FC413E6F}|jaryoguzo\\jaryoguzo.vcxproj|solutionrelative:jaryoguzo\\LinkedPoly.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0DBDD7A-0A9C-4A4A-9AE3-FCF4FC413E6F}|jaryoguzo\\jaryoguzo.vcxproj|C:\\Practice\\Practice - C\\jaryoguzo\\jaryoguzo\\LinkedPoly.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F0DBDD7A-0A9C-4A4A-9AE3-FCF4FC413E6F}|jaryoguzo\\jaryoguzo.vcxproj|solutionrelative:jaryoguzo\\LinkedPoly.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0DBDD7A-0A9C-4A4A-9AE3-FCF4FC413E6F}|jaryoguzo\\jaryoguzo.vcxproj|C:\\Practice\\Practice - C\\jaryoguzo\\jaryoguzo\\ex4_5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F0DBDD7A-0A9C-4A4A-9AE3-FCF4FC413E6F}|jaryoguzo\\jaryoguzo.vcxproj|solutionrelative:jaryoguzo\\ex4_5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0DBDD7A-0A9C-4A4A-9AE3-FCF4FC413E6F}|jaryoguzo\\jaryoguzo.vcxproj|C:\\Practice\\Practice - C\\jaryoguzo\\jaryoguzo\\InsertLinkedList.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F0DBDD7A-0A9C-4A4A-9AE3-FCF4FC413E6F}|jaryoguzo\\jaryoguzo.vcxproj|solutionrelative:jaryoguzo\\InsertLinkedList.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0DBDD7A-0A9C-4A4A-9AE3-FCF4FC413E6F}|jaryoguzo\\jaryoguzo.vcxproj|C:\\Practice\\Practice - C\\jaryoguzo\\jaryoguzo\\InsertLinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F0DBDD7A-0A9C-4A4A-9AE3-FCF4FC413E6F}|jaryoguzo\\jaryoguzo.vcxproj|solutionrelative:jaryoguzo\\InsertLinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0DBDD7A-0A9C-4A4A-9AE3-FCF4FC413E6F}|jaryoguzo\\jaryoguzo.vcxproj|C:\\Practice\\Practice - C\\jaryoguzo\\jaryoguzo\\ex3_6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F0DBDD7A-0A9C-4A4A-9AE3-FCF4FC413E6F}|jaryoguzo\\jaryoguzo.vcxproj|solutionrelative:jaryoguzo\\ex3_6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0DBDD7A-0A9C-4A4A-9AE3-FCF4FC413E6F}|jaryoguzo\\jaryoguzo.vcxproj|C:\\Practice\\Practice - C\\jaryoguzo\\jaryoguzo\\addPoly.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F0DBDD7A-0A9C-4A4A-9AE3-FCF4FC413E6F}|jaryoguzo\\jaryoguzo.vcxproj|solutionrelative:jaryoguzo\\addPoly.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0DBDD7A-0A9C-4A4A-9AE3-FCF4FC413E6F}|jaryoguzo\\jaryoguzo.vcxproj|C:\\Practice\\Practice - C\\jaryoguzo\\jaryoguzo\\DoubleLinkedList.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F0DBDD7A-0A9C-4A4A-9AE3-FCF4FC413E6F}|jaryoguzo\\jaryoguzo.vcxproj|solutionrelative:jaryoguzo\\DoubleLinkedList.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0DBDD7A-0A9C-4A4A-9AE3-FCF4FC413E6F}|jaryoguzo\\jaryoguzo.vcxproj|C:\\Practice\\Practice - C\\jaryoguzo\\jaryoguzo\\ex4_4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F0DBDD7A-0A9C-4A4A-9AE3-FCF4FC413E6F}|jaryoguzo\\jaryoguzo.vcxproj|solutionrelative:jaryoguzo\\ex4_4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0DBDD7A-0A9C-4A4A-9AE3-FCF4FC413E6F}|jaryoguzo\\jaryoguzo.vcxproj|C:\\Practice\\Practice - C\\jaryoguzo\\jaryoguzo\\ex4_3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F0DBDD7A-0A9C-4A4A-9AE3-FCF4FC413E6F}|jaryoguzo\\jaryoguzo.vcxproj|solutionrelative:jaryoguzo\\ex4_3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0DBDD7A-0A9C-4A4A-9AE3-FCF4FC413E6F}|jaryoguzo\\jaryoguzo.vcxproj|C:\\Practice\\Practice - C\\jaryoguzo\\jaryoguzo\\CircularLinkedList.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F0DBDD7A-0A9C-4A4A-9AE3-FCF4FC413E6F}|jaryoguzo\\jaryoguzo.vcxproj|solutionrelative:jaryoguzo\\CircularLinkedList.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0DBDD7A-0A9C-4A4A-9AE3-FCF4FC413E6F}|jaryoguzo\\jaryoguzo.vcxproj|C:\\Practice\\Practice - C\\jaryoguzo\\jaryoguzo\\DoubleLinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F0DBDD7A-0A9C-4A4A-9AE3-FCF4FC413E6F}|jaryoguzo\\jaryoguzo.vcxproj|solutionrelative:jaryoguzo\\DoubleLinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0DBDD7A-0A9C-4A4A-9AE3-FCF4FC413E6F}|jaryoguzo\\jaryoguzo.vcxproj|C:\\Practice\\Practice - C\\jaryoguzo\\jaryoguzo\\CircularLinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F0DBDD7A-0A9C-4A4A-9AE3-FCF4FC413E6F}|jaryoguzo\\jaryoguzo.vcxproj|solutionrelative:jaryoguzo\\CircularLinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F0DBDD7A-0A9C-4A4A-9AE3-FCF4FC413E6F}|jaryoguzo\\jaryoguzo.vcxproj|C:\\Practice\\Practice - C\\jaryoguzo\\jaryoguzo\\ex7_5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0DBDD7A-0A9C-4A4A-9AE3-FCF4FC413E6F}|jaryoguzo\\jaryoguzo.vcxproj|solutionrelative:jaryoguzo\\ex7_5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,168 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "addPoly.c",
-              "DocumentMoniker": "C:\\Practice\\Practice - C\\jaryoguzo\\jaryoguzo\\addPoly.c",
-              "RelativeDocumentMoniker": "jaryoguzo\\addPoly.c",
-              "ToolTip": "C:\\Practice\\Practice - C\\jaryoguzo\\jaryoguzo\\addPoly.c",
-              "RelativeToolTip": "jaryoguzo\\addPoly.c",
-              "ViewState": "AQIAABMAAAAAAAAAAAAYwCMAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-05-26T06:08:00.567Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ex4_5.c",
-              "DocumentMoniker": "C:\\Practice\\Practice - C\\jaryoguzo\\jaryoguzo\\ex4_5.c",
-              "RelativeDocumentMoniker": "jaryoguzo\\ex4_5.c",
-              "ToolTip": "C:\\Practice\\Practice - C\\jaryoguzo\\jaryoguzo\\ex4_5.c",
-              "RelativeToolTip": "jaryoguzo\\ex4_5.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-05-26T06:04:45.197Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "LinkedPoly.c",
-              "DocumentMoniker": "C:\\Practice\\Practice - C\\jaryoguzo\\jaryoguzo\\LinkedPoly.c",
-              "RelativeDocumentMoniker": "jaryoguzo\\LinkedPoly.c",
-              "ToolTip": "C:\\Practice\\Practice - C\\jaryoguzo\\jaryoguzo\\LinkedPoly.c",
-              "RelativeToolTip": "jaryoguzo\\LinkedPoly.c",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAADkAAAABAAAA",
+              "Title": "ex7_5.c",
+              "DocumentMoniker": "C:\\Practice\\Practice - C\\jaryoguzo\\jaryoguzo\\ex7_5.c",
+              "RelativeDocumentMoniker": "jaryoguzo\\ex7_5.c",
+              "ToolTip": "C:\\Practice\\Practice - C\\jaryoguzo\\jaryoguzo\\ex7_5.c",
+              "RelativeToolTip": "jaryoguzo\\ex7_5.c",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAkwBwAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-05-26T05:41:47.235Z",
+              "WhenOpened": "2024-09-01T11:51:37.267Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LinkedPoly.h",
-              "DocumentMoniker": "C:\\Practice\\Practice - C\\jaryoguzo\\jaryoguzo\\LinkedPoly.h",
-              "RelativeDocumentMoniker": "jaryoguzo\\LinkedPoly.h",
-              "ToolTip": "C:\\Practice\\Practice - C\\jaryoguzo\\jaryoguzo\\LinkedPoly.h",
-              "RelativeToolTip": "jaryoguzo\\LinkedPoly.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAhwBAAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-26T05:38:20.774Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ex4_4.c",
-              "DocumentMoniker": "C:\\Practice\\Practice - C\\jaryoguzo\\jaryoguzo\\ex4_4.c",
-              "RelativeDocumentMoniker": "jaryoguzo\\ex4_4.c",
-              "ToolTip": "C:\\Practice\\Practice - C\\jaryoguzo\\jaryoguzo\\ex4_4.c",
-              "RelativeToolTip": "jaryoguzo\\ex4_4.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-05-26T04:48:55.169Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DoubleLinkedList.c",
-              "DocumentMoniker": "C:\\Practice\\Practice - C\\jaryoguzo\\jaryoguzo\\DoubleLinkedList.c",
-              "RelativeDocumentMoniker": "jaryoguzo\\DoubleLinkedList.c",
-              "ToolTip": "C:\\Practice\\Practice - C\\jaryoguzo\\jaryoguzo\\DoubleLinkedList.c",
-              "RelativeToolTip": "jaryoguzo\\DoubleLinkedList.c",
-              "ViewState": "AQIAAC4AAAAAAAAAAAAYwD4AAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-05-26T04:41:18.25Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ex3_6.c",
-              "DocumentMoniker": "C:\\Practice\\Practice - C\\jaryoguzo\\jaryoguzo\\ex3_6.c",
-              "RelativeDocumentMoniker": "jaryoguzo\\ex3_6.c",
-              "ToolTip": "C:\\Practice\\Practice - C\\jaryoguzo\\jaryoguzo\\ex3_6.c",
-              "RelativeToolTip": "jaryoguzo\\ex3_6.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-05-25T08:38:52.077Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "DoubleLinkedList.h",
-              "DocumentMoniker": "C:\\Practice\\Practice - C\\jaryoguzo\\jaryoguzo\\DoubleLinkedList.h",
-              "RelativeDocumentMoniker": "jaryoguzo\\DoubleLinkedList.h",
-              "ToolTip": "C:\\Practice\\Practice - C\\jaryoguzo\\jaryoguzo\\DoubleLinkedList.h",
-              "RelativeToolTip": "jaryoguzo\\DoubleLinkedList.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-26T04:39:05.842Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CircularLinkedList.c",
-              "DocumentMoniker": "C:\\Practice\\Practice - C\\jaryoguzo\\jaryoguzo\\CircularLinkedList.c",
-              "RelativeDocumentMoniker": "jaryoguzo\\CircularLinkedList.c",
-              "ToolTip": "C:\\Practice\\Practice - C\\jaryoguzo\\jaryoguzo\\CircularLinkedList.c",
-              "RelativeToolTip": "jaryoguzo\\CircularLinkedList.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-05-25T18:27:56.28Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ex4_3.c",
-              "DocumentMoniker": "C:\\Practice\\Practice - C\\jaryoguzo\\jaryoguzo\\ex4_3.c",
-              "RelativeDocumentMoniker": "jaryoguzo\\ex4_3.c",
-              "ToolTip": "C:\\Practice\\Practice - C\\jaryoguzo\\jaryoguzo\\ex4_3.c",
-              "RelativeToolTip": "jaryoguzo\\ex4_3.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-05-25T18:40:06.695Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "InsertLinkedList.c",
-              "DocumentMoniker": "C:\\Practice\\Practice - C\\jaryoguzo\\jaryoguzo\\InsertLinkedList.c",
-              "RelativeDocumentMoniker": "jaryoguzo\\InsertLinkedList.c",
-              "ToolTip": "C:\\Practice\\Practice - C\\jaryoguzo\\jaryoguzo\\InsertLinkedList.c",
-              "RelativeToolTip": "jaryoguzo\\InsertLinkedList.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-05-24T05:52:32.645Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "InsertLinkedList.h",
-              "DocumentMoniker": "C:\\Practice\\Practice - C\\jaryoguzo\\jaryoguzo\\InsertLinkedList.h",
-              "RelativeDocumentMoniker": "jaryoguzo\\InsertLinkedList.h",
-              "ToolTip": "C:\\Practice\\Practice - C\\jaryoguzo\\jaryoguzo\\InsertLinkedList.h",
-              "RelativeToolTip": "jaryoguzo\\InsertLinkedList.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-24T02:56:56.365Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CircularLinkedList.h",
-              "DocumentMoniker": "C:\\Practice\\Practice - C\\jaryoguzo\\jaryoguzo\\CircularLinkedList.h",
-              "RelativeDocumentMoniker": "jaryoguzo\\CircularLinkedList.h",
-              "ToolTip": "C:\\Practice\\Practice - C\\jaryoguzo\\jaryoguzo\\CircularLinkedList.h",
-              "RelativeToolTip": "jaryoguzo\\CircularLinkedList.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvw8AAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-25T18:25:14.168Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }

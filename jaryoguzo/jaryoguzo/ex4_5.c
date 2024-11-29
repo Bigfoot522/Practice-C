@@ -1,6 +1,6 @@
 #include "LinkedPoly.h"
 
-void main(void) {
+void main_linked(void) {
 	ListHead* A, * B, * C;
 
 	A = createLinkedList();

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Practice\\Practice - C\\doksiC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B51937F-E0A0-4C3A-91CD-579A39B628EE}|doksiC\\doksiC.vcxproj|C:\\Practice\\Practice - C\\doksiC\\doksiC\\integer01.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4B51937F-E0A0-4C3A-91CD-579A39B628EE}|doksiC\\doksiC.vcxproj|solutionrelative:doksiC\\integer01.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "integer01.c",
+              "DocumentMoniker": "C:\\Practice\\Practice - C\\doksiC\\doksiC\\integer01.c",
+              "RelativeDocumentMoniker": "doksiC\\integer01.c",
+              "ToolTip": "C:\\Practice\\Practice - C\\doksiC\\doksiC\\integer01.c",
+              "RelativeToolTip": "doksiC\\integer01.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-25T09:16:19.847Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

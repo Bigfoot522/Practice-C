@@ -1,0 +1,74 @@
+﻿  ex7_5.c
+  avl.c
+  ex7_4.c
+  addPoly.c
+  Array.c
+  bst.c
+  CircularLinkedList.c
+  cQueueS.c
+  deQue.c
+C:\Practice\Practice - C\jaryoguzo\jaryoguzo\cQueueS.c(38,25): warning C4033: 'deCQueue'은(는) 값을 반환해야 합니다.
+  DoubleLinkedList.c
+C:\Practice\Practice - C\jaryoguzo\jaryoguzo\cQueueS.c(46,25): warning C4033: 'peekCQ'은(는) 값을 반환해야 합니다.
+C:\Practice\Practice - C\jaryoguzo\jaryoguzo\deQue.c(56,43): warning C4033: 'deleteFront'은(는) 값을 반환해야 합니다.
+C:\Practice\Practice - C\jaryoguzo\jaryoguzo\deQue.c(77,43): warning C4033: 'deleteRear'은(는) 값을 반환해야 합니다.
+C:\Practice\Practice - C\jaryoguzo\jaryoguzo\deQue.c(97,43): warning C4033: 'peekFront'은(는) 값을 반환해야 합니다.
+C:\Practice\Practice - C\jaryoguzo\jaryoguzo\deQue.c(108,43): warning C4033: 'peekRear'은(는) 값을 반환해야 합니다.
+  ex3_4.c
+  ex3_5.c
+  ex3_6.c
+  ex4_1.c
+  ex4_2.c
+  ex4_3.c
+  ex4_4.c
+  ex4_5.c
+C:\Practice\Practice - C\jaryoguzo\jaryoguzo\ex4_5.c(13,2): warning C4013: 'printf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Practice\Practice - C\jaryoguzo\jaryoguzo\ex4_5.c(27,2): warning C4013: 'getchar'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Practice\Practice - C\jaryoguzo\jaryoguzo\ex4_5.c(27,13): warning C4098: 'main_linked': 'void' 함수에서 값을 반환하고 있습니다.
+  ex5_1.c
+  ex5_2.c
+C:\Practice\Practice - C\jaryoguzo\jaryoguzo\ex5_2.c(8,2): warning C4013: 'printStack'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Practice\Practice - C\jaryoguzo\jaryoguzo\ex5_2.c(10,2): warning C4013: 'push'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Practice\Practice - C\jaryoguzo\jaryoguzo\ex5_2.c(14,9): warning C4013: 'peek'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Practice\Practice - C\jaryoguzo\jaryoguzo\ex5_2.c(17,9): warning C4013: 'pop'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  컴파일하고 있습니다...
+  ex6_1.c
+C:\Practice\Practice - C\jaryoguzo\jaryoguzo\ex6_1.c(6,2): warning C4013: 'printf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Practice\Practice - C\jaryoguzo\jaryoguzo\ex6_1.c(21,2): warning C4013: 'getchar'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  ex6_2.c
+C:\Practice\Practice - C\jaryoguzo\jaryoguzo\ex6_2.c(6,2): warning C4013: 'printf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Practice\Practice - C\jaryoguzo\jaryoguzo\ex6_2.c(19,2): warning C4013: 'getchar'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  ex6_4.c
+C:\Practice\Practice - C\jaryoguzo\jaryoguzo\ex6_4.c(6,2): warning C4013: 'printf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Practice\Practice - C\jaryoguzo\jaryoguzo\ex6_4.c(21,2): warning C4013: 'getchar'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  ex7_1.c
+  ex7_2.c
+  ex7_3.c
+  folderSize.c
+  InsertLinkedList.c
+  LinkedList.c
+  LinkedPoly.c
+  listS.c
+  node.c
+  node2.c
+  Pointer.c
+  queueS.c
+C:\Practice\Practice - C\jaryoguzo\jaryoguzo\queueS.c(38,23): warning C4033: 'deQueue'은(는) 값을 반환해야 합니다.
+C:\Practice\Practice - C\jaryoguzo\jaryoguzo\queueS.c(46,23): warning C4033: 'peekQ'은(는) 값을 반환해야 합니다.
+  Recursion.c
+  Slist.c
+  smTranspose.c
+  stackL.c
+C:\Practice\Practice - C\jaryoguzo\jaryoguzo\stackL.c(17,22): warning C4027: 정식 매개 변수 목록을 사용하지 않고 함수를 선언했습니다.
+C:\Practice\Practice - C\jaryoguzo\jaryoguzo\stackL.c(21,3): warning C4013: 'printf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Practice\Practice - C\jaryoguzo\jaryoguzo\stackL.c(33,6): warning C4013: 'isStackEmpty'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  stackS.c
+  컴파일하고 있습니다...
+  Struct.c
+  threadBT.c
+  traversalBT.c
+LINK : warning C4742: 'top'의 맞춤이 'c:\practice\practice - c\jaryoguzo\jaryoguzo\stacks.c'과(와) 'c:\practice\practice - c\jaryoguzo\jaryoguzo\ex5_2.c'에서 서로 다릅니다(4 - 8).
+LINK : warning C4743: 'top'의 크기가 'c:\practice\practice - c\jaryoguzo\jaryoguzo\stacks.c'과(와) 'c:\practice\practice - c\jaryoguzo\jaryoguzo\ex5_2.c'에서 서로 다릅니다(4바이트, 8바이트).
+LINK : warning C4744: 'top'의 형식이 'c:\practice\practice - c\jaryoguzo\jaryoguzo\stacks.c'과(와) 'c:\practice\practice - c\jaryoguzo\jaryoguzo\ex5_2.c'에서 서로 다릅니다('int', 'pointer').
+ex7_5.obj : error LNK2001: 확인할 수 없는 외부 기호 searchBST
+C:\Practice\Practice - C\jaryoguzo\x64\Release\jaryoguzo.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.

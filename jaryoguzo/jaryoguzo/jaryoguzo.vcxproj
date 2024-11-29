@@ -127,9 +127,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="avl.c" />
+    <ClCompile Include="bst2.c" />
+    <ClCompile Include="ex7_4.c" />
     <ClCompile Include="addPoly.c" />
     <ClCompile Include="Array.c" />
+    <ClCompile Include="bst.c" />
     <ClCompile Include="CircularLinkedList.c" />
+    <ClCompile Include="cQueueS.c" />
+    <ClCompile Include="deQue.c" />
     <ClCompile Include="DoubleLinkedList.c" />
     <ClCompile Include="ex3_4.c" />
     <ClCompile Include="ex3_5.c" />
@@ -139,25 +145,55 @@
     <ClCompile Include="ex4_3.c" />
     <ClCompile Include="ex4_4.c" />
     <ClCompile Include="ex4_5.c" />
+    <ClCompile Include="ex5_1.c" />
+    <ClCompile Include="ex5_2.c" />
+    <ClCompile Include="ex6_1.c" />
+    <ClCompile Include="ex6_2.c" />
+    <ClCompile Include="ex6_4.c" />
+    <ClCompile Include="ex7_1.c" />
+    <ClCompile Include="ex7_2.c" />
+    <ClCompile Include="ex7_3.c" />
+    <ClCompile Include="ex7_5.c" />
+    <ClCompile Include="folderSize.c" />
     <ClCompile Include="InsertLinkedList.c" />
     <ClCompile Include="LinkedList.c" />
     <ClCompile Include="LinkedPoly.c" />
     <ClCompile Include="listS.c" />
+    <ClCompile Include="node.c" />
+    <ClCompile Include="node2.c" />
     <ClCompile Include="Pointer.c" />
+    <ClCompile Include="queueS.c" />
     <ClCompile Include="Recursion.c" />
     <ClCompile Include="Slist.c" />
     <ClCompile Include="smTranspose.c" />
+    <ClCompile Include="stackL.c" />
+    <ClCompile Include="stackS.c" />
     <ClCompile Include="Struct.c" />
+    <ClCompile Include="threadBT.c" />
+    <ClCompile Include="traversalBT.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="addPoly.h" />
+    <ClInclude Include="avl.h" />
+    <ClInclude Include="bst.h" />
+    <ClInclude Include="bst2.h" />
     <ClInclude Include="CircularLinkedList.h" />
+    <ClInclude Include="cQueueS.h" />
+    <ClInclude Include="deQue.h" />
     <ClInclude Include="DoubleLinkedList.h" />
+    <ClInclude Include="folderSize.h" />
     <ClInclude Include="InsertLinkedList.h" />
     <ClInclude Include="LinkedList.h" />
     <ClInclude Include="LinkedPoly.h" />
     <ClInclude Include="listS.h" />
+    <ClInclude Include="node.h" />
+    <ClInclude Include="node2.h" />
+    <ClInclude Include="queueS.h" />
     <ClInclude Include="smTranspose.h" />
+    <ClInclude Include="stackL.h" />
+    <ClInclude Include="stackS.h" />
+    <ClInclude Include="threadBT.h" />
+    <ClInclude Include="traversalBT.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
